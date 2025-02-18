@@ -11,7 +11,7 @@ K-means\
 Principal Component Analysis
 
 #### Resources
-Class assignments
-Google AI
-Microsoft Co-pilot
+Class assignments\
+Google AI\
+Microsoft Co-pilot\
 Stackoverflow
